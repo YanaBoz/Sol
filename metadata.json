@@ -2,13 +2,13 @@
   "name": "BSUIR Demo Token",
   "symbol": "DEMO",
   "description": "Test token for BSUIR blockchain course",
-  "image": "https://github.com/YanaBoz/Sol/blob/main/logo.png",
+  "image": "https://raw.githubusercontent.com/YanaBoz/Sol/main/logo.png",
   "external_url": "",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://github.com/YanaBoz/Sol/blob/main/logo.png",
+        "uri": "https://raw.githubusercontent.com/YanaBoz/Sol/main/logo.png",
         "type": "image/png"
       }
     ],
