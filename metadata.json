@@ -4,6 +4,7 @@
   "description": "Test token for BSUIR blockchain course",
   "image": "https://raw.githubusercontent.com/YanaBoz/Sol/main/logo.png",
   "external_url": "",
+  "seller_fee_basis_points": 0,
   "attributes": [],
   "properties": {
     "files": [
